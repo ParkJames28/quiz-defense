@@ -1,0 +1,27 @@
+question: What is the capital of France?
+A) Berlin
+B) Madrid
+C) Paris
+D) Rome
+Answer: C
+
+question: What is the largest planet in our solar system?
+A) Earth
+B) Jupiter
+C) Mars
+D) Saturn
+Answer: B
+
+question: what is the acronym og GCCI?
+A) GINGOOG CITY COLLEGES INC.
+B) GINGOOG COLEGES COOP. INC.
+C) GOLDEN CITY COLLEGES INS.
+D) GLOBAL CORE COLLEGES INC.
+Answer: A
+
+question: How many bones human have?
+A) 200
+B) 206
+C) 210
+D) 205
+Answer: B
